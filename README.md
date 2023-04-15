@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alancodigo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, soy Alan
+- 👀 Estoy interesado en aprender programación y electrónica
+- 🌱 Actualmente estoy cursando Tecnicatura Superior en Telecomunicaciones
+- 💞️ Me gustaria colaborar en proyectos que aporten a mi carrera
+- 📫 Me podes escribir en alanp7@gmail.com
 
 <!---
 alancodigo/alancodigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
