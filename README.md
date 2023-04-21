@@ -1,6 +1,6 @@
 - 👋 Hola, soy Alan
 - 👀 Estoy interesado en aprender programación y electrónica
-- 🌱 Actualmente estoy cursando Tecnicatura Superior en Telecomunicaciones
+- 🌱 Actualmente estoy cursando Téc. Sup. en Telecomunicaciones y Téc. Sup. en Administración
 - 💞️ Me gustaria colaborar en proyectos que aporten a mi carrera
 - 📫 Me podes escribir en alanp7@gmail.com
 
